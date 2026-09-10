@@ -1,0 +1,132 @@
+body {
+background-image: url(https://cdn.dribbble.com/userupload/22807413/file/original-81a329d6ff9f9694e8b0ed7219a995bb.gif);
+background-size: 2000px;
+color: darkblue;
+font-size: 20px;
+}
+
+ul {
+background-color: yellow;
+border-radius: 20px;
+padding: 15px 15px 15px 40px;
+}
+
+.school-divider {
+border: 2px solid darkblue;
+margin: 40px 0;
+}
+
+.school-link {
+background-color: gold;
+font-size: 20px;
+border-radius: 20px;
+padding: 10px;
+display: inline-block;
+margin: 10px 0;
+text-decoration: none;
+color: darkblue;
+}
+
+.UNO {
+background-color: red;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+}
+
+.UNO2 {
+background-color: green;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+}
+
+.UNO3 {
+background-color: yellow;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+}
+
+.UNO4 {
+background-color: cyan;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+}
+
+.LSU {
+background-color: purple;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+color: white;
+}
+
+.LSU2 {
+background-color: orange;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+color: white;
+}
+
+.LSU3 {
+background-color: pink;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+color: black;
+}
+
+.LSU4 {
+background-color: magenta;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+color: white;
+}
+
+.MSU {
+background-color: maroon;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+color: white;
+}
+
+.MSU2 {
+background-color: teal;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+color: white;
+}
+
+.MSU3 {
+background-color: lime;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+color: black;
+}
+
+.MSU4 {
+background-color: coral;
+border-radius: 20px;
+padding: 10px;
+background-image: url(https://i.makeagif.com/media/9-28-2018/8X2fz7.gif);
+background-size: 6000px;
+color: black;
+}
